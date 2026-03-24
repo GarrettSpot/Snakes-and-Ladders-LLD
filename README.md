@@ -30,6 +30,7 @@ A clean, SOLID, extensible low-level design implementation of a Snakes and Ladde
   - `IDifficultyStrategy.java`, `EasyStrategy.java`, `HardStrategy.java` — dice behavior strategy
   - `DiceRollResult.java` — holds aggregated roll outcome
 
+## Demonstration/Usage
 
 ```
 cd snakeandladder
