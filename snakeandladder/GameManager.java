@@ -9,7 +9,7 @@ public class GameManager {
     private int currentPlayerIndex;
     private IDifficultyStrategy strategy;
 
-    public GameManager(int n, int x, String difficulty, List<String> playerNames) {
+    GameManager(int n, String difficulty, List<String> playerNames) {
         this.strategy = getStrategy(difficulty);
         board = new Board(n);
         players = new ArrayList<>();
