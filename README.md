@@ -13,6 +13,10 @@ A clean, SOLID, extensible low-level design implementation of a Snakes and Ladde
 - Movement with dice roll, boundaries, snakes, and ladders
 - In-code extensibility for new dice and strategies
 
+## UML Diagram
+
+![](https://github.com/GarrettSpot/Snakes-and-Ladders-LLD/blob/main/Snakes%20And%20Ladders.drawio.png?raw=true)
+
 ## Project Structure
 
 - `snakeandladder/`
